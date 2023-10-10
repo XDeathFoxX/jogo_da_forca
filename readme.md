@@ -19,4 +19,14 @@ Versão 0.2:
 
 Nessa versão adicionei uma função para auto complete de letras com acento, sem o usuário precisar digitá-las, assim que digitar por exemplo a letra o e a palavra tiver ô, ira completar a letra o e ô ao mesmo tempo,sendo assim mais dinâmico o jogo para o usuário.
 
+Versão 0.3:
+
+Nessa versão fiz uma verificação da letra digitada,se caso não digitar nenhuma letra ou mais de uma ele dá uma mensagem de erro pedindo para digitar novamente só uma letra por vez.
+
+Também implementei um switch case para fazer a averiguação da letra digitada e se tem a letra com acento na palavra,pois antes se tivesse só uma letra com acento, por exemplo "ú" e não tivesse outro "u" na palavra ele descontava uma chance.
+
+Agora foi corrigido!
+
+Assim que eu encontrar outras coisas para poder melhorar nesse código estarei atualizando aqui.
+
 Espero que gostem!
